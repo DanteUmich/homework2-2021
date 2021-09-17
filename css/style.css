@@ -31,3 +31,19 @@ div{
 	height: 150px;
 	padding: 25px;
 }
+
+#red{
+	background: #ff0000;
+	text-align: right;
+}
+
+#blue{
+	background: #0000ff;
+	text-align: left;
+}
+
+#yellow{
+	background: #ffff00;
+	text-align: right;
+	
+}

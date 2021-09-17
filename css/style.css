@@ -26,3 +26,8 @@ img{
 	display: block;
 	width: 550px;
 }
+
+div{
+	height: 150px;
+	padding: 25px;
+}

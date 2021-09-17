@@ -12,8 +12,7 @@ h1{
 
 h2{
 	font-size: 32px;
-	text-shadow: 4px 4px #808080;
-	filter: blur(2px);
+	text-shadow: 4px 4px 2px #808080;
 }
 
 p{
@@ -46,4 +45,13 @@ div{
 	background: #ffff00;
 	text-align: right;
 	
+}
+
+#yellow h2{
+	color: #000000;
+	text-shadow: 4px 4px #c7e3c7;
+}
+
+#yellow p{
+	color: #000000;
 }

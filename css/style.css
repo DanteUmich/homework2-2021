@@ -9,3 +9,9 @@ h1{
 	text-align: center;
 	padding: 10px;
 }
+
+h2{
+	font-size: 32px;
+	text-shadow: 4px 4px #808080;
+	filter: blur(4px);
+}

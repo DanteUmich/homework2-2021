@@ -55,3 +55,14 @@ div{
 #yellow p{
 	color: #000000;
 }
+
+#green{
+	background: #00ff00;
+	text-align: left;
+}
+
+footer p{
+	text-align: center;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
